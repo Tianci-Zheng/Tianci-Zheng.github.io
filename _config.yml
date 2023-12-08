@@ -84,10 +84,10 @@ author:
   name             : "Tian-Ci Zheng"
   #avatar           : "ztcp.png"
   avatar           : "ztcj.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "up! up! up!"
   location         : "Nanjing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : tczheng@pmo.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Tianci-Zheng"
   google_plus      :
   keybase          :
   instagram        :
