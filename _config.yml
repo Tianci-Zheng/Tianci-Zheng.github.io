@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "T.C. Zheng's home page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tianci Zheng"
+description              : &description "Ph.D. candidate in High Energy Astrophysics (USTC/PMO)"
 url                      : https://Tianci-Zheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -85,11 +85,11 @@ author:
   #avatar           : "ztcp.png"
   avatar           : "ztcj.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "[Nanjing](https://www.google.com/maps/place/Nanjing,+Jiangsu,+China/@32.0975672,118.0795417,9z/data=!4m6!3m5!1s0x35b58c9b668dcd83:0x8ffbb60b79df1b06!8m2!3d32.0583799!4d118.79647!16zL20vMDVncXk?entry=ttu)"
+  location         : "Nanjing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : tczheng@pmo.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
