@@ -85,7 +85,7 @@ author:
   #avatar           : "ztcp.png"
   avatar           : "ztcj.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Nanjing"
+  location         : "https://www.google.com/maps/place/Nanjing,+Jiangsu,+China/@32.0975672,118.0795417,9z/data=!4m6!3m5!1s0x35b58c9b668dcd83:0x8ffbb60b79df1b06!8m2!3d32.0583799!4d118.79647!16zL20vMDVncXk?entry=ttu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
