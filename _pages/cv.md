@@ -11,22 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Guangxi University, 2018
+* M.S. in physics, Guangxi University, 2021
+* Ph.D. in High Energy Astrophysics, University of Science and Technology of China, 2025 (expected)
 
-Work experience
+Observations experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 24: 
+  * Gaomeigu Observatory
+  * 2.4 meters 
+  * target acquisition
+  * Object: QSO
+  * Notice: Summer school, Learning trip
+    
+* 2018.12 (one week):
+  * Xinglong Observatory
+  * GWAC/GWAC-F60/GWAC-F30
+  * photometry
+  * Object: Transient of Opportunity (ToO)
+  * Notice: Duty of sky survey (Learning trip)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018.12 -2020.12 (seemly):
+  * Online Duty
+  * GWAC/GWAC-F60/GWAC-F30
+  * Duty of sky survey 
+  * photometry
+  * Object: Transient of Opportunity (ToO)
+    
+* 2018.11 -2020.12:
+  * Online duty
+  * GWAC-F60/GWAC-F30/LCOGT
+  * Duty of Transient of Opportunity (ToO) follow-up
+  * Object: Gamma-ray bursts, Supernovae, TDE, AGN, QSP, Neutrino optical counterpart, etc.
+ 
+* 2023.11.3:
+  * Palomar Observatory
+  * P200
+  * Narrow-band photometry 
+  * Object: galaxy
+  * Notice: Learning trip
+
+* 2023.11.6 - 2023. 11. 12:
+  * MDM observatory
+  * 2.4 m Hiltner telescope
+  * Narrow-band photometry, Wide-band photometry, slitless spectroscopy, multi-slitless spectroscopy
+  * Object: galaxy, QSO, GRB
+  * Notice: Learning trip
+
+* 2023.11.13 - 2023. 11. 19:
+  * MDM observatory
+  * 1.3 m) McGraw–Hill telescope
+  * target acquisition
+  * Object: galaxy, QSO
+  * Notice: Learning trip
+    
 Skills
 ======
 * Skill 1
