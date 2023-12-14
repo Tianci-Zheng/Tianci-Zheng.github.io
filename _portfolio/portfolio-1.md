@@ -1,6 +1,6 @@
 ---
 title: "P200 observation trip"
-excerpt: "Learning trip at Palomar observatory <br/><img src='/images/P200-1.jpg'>"
+excerpt: "Learning trip at Palomar Observatory <br/><img src='/images/P200-1.jpg'>"
 collection: portfolio
 ---
 
