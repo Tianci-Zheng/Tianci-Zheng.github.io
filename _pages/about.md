@@ -34,8 +34,14 @@ Activities
    2023.12.5-8, the first conference of neutron star physics and corresponding phenomenon, Nanjing, China
 
 **Visit**
-UMICH; 2023.11.1 - 2023. 11.21
+
+1. UMICH; 2023.11.1 - 2023. 11.21
 
 **Travel**
-Cycling to Tebit; 2018.7 - 2018.8
+
+1. Cycling to Tebit: 2018.7 - 2018.8
+
+1. Cycling around Hainan Island: 2021.11
+   
+1. Cycling around Qinhai Lake: 2022.8
 
