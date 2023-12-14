@@ -24,7 +24,7 @@ Further interests
 1. Optical Observations
    
   
-Activities and life
+Activities
 ------
 
 **Talk**
