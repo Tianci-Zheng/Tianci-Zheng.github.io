@@ -18,12 +18,12 @@ Differing from the erratic prompt emission of GRBs, the canonical afterglow is a
 
 For further interest, please find the publications from my private [ADS library](https://ui.adsabs.harvard.edu/public-libraries/lgsSLQwzQ0GLO3hxMgFZjA)
 
-other interest
+Further interests
 ------
 1. FRB
 1. Optical Observations 
 
-Biography 
+Activities and life
 ------
 
 **talks**
