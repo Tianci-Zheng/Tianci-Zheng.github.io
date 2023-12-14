@@ -26,14 +26,15 @@ Further interests
 Activities and life
 ------
 
-**talks**
+**Talk**
 
 1. X-ray flare and plateau as a tool for probing the GRB central engine
+   
    2023.12.5-8, the first conference of neutron star physics and corresponding phenomenon, Nanjing, China
 
-**visit**
+**Visit**
 UMICH; 2023.11.1 - 2023. 11.21
 
-**travel**
+**Travel**
 Cycling to Tebit; 2018.7 - 2018.8
 
