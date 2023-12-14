@@ -71,7 +71,7 @@ Skills
 
 * Optics
   * photometry
-  * spectroscopy extract
+  * spectroscopy
 * X-ray:
   * Swift/XRT
 * Gamma-ray:
