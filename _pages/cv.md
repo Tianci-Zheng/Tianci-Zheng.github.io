@@ -19,7 +19,6 @@ Observations experience
 ======
 
 * 2018.12 (one week):
-#* 2018. 10. 24:
   * Gaomeigu Observatory
   * 2.4 meters 
   * target acquisition
