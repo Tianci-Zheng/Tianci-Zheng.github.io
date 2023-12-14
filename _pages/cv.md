@@ -17,7 +17,7 @@ Education
 
 Observations experience
 ======
-* Oct 24: 
+* 2018. 10. 24: 
   * Gaomeigu Observatory
   * 2.4 meters 
   * target acquisition
@@ -38,7 +38,7 @@ Observations experience
   * photometry
   * Object: Transient of Opportunity (ToO)
     
-* 2018.11 -2020.12:
+* 2018.11 -2020.12 (seemly):
   * Online duty
   * GWAC-F60/GWAC-F30/LCOGT
   * Duty of Transient of Opportunity (ToO) follow-up
@@ -74,6 +74,7 @@ Skills
 * X-ray:
   * Swift/XRT
 * Gamma-ray:
+  * Swift/BAT
   * Fermi/GBM 
 
 Publications
