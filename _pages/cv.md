@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Guangxi University, 2018
 * M.S. in physics, Guangxi University, 2021
-* Ph.D. in High Energy Astrophysics, University of Science and Technology of China, 2025 (expected)
+* Ph.D. in Astrophysics, University of Science and Technology of China, 2025 (expected)
 
 Observations experience
 ======
@@ -69,7 +69,7 @@ Observations experience
 Skills
 ======
 
-* Optics
+* Optical
   * photometry
   * spectroscopy
 * X-ray:
