@@ -21,7 +21,9 @@ For detailed studies please find the publications from my private [ADS library](
 Further interests
 ------
 1. FRB
-1. Optical Observations
+2. SN
+3. TDE/QPE
+4. Observations
    
   
 Activities
@@ -37,7 +39,7 @@ Activities
 
 1. UMICH; 2023.11.1 - 2023. 11.21
 
-**Travel**
+**Traveling**
 
 1. Cycling to Tebit: 2018.7 - 2018.8
 
