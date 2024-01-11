@@ -47,5 +47,5 @@ GCN reports
 * GRB 190530A: GWAC-F30 optical detection.
   * Xin, L. P.; Li, G. W.; Zhang, R. S. GCN24688
 
-[Personal ADS Library]{https://ui.adsabs.harvard.edu/public-libraries/lgsSLQwzQ0GLO3hxMgFZjA}
+[Private ADS Library](https://ui.adsabs.harvard.edu/public-libraries/lgsSLQwzQ0GLO3hxMgFZjA})
 
