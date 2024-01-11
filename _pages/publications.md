@@ -14,3 +14,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+Education
+======
+* B.S. in Physics, Guangxi University, 2018
+* M.S. in physics, Guangxi University, 2021
+* Ph.D. in Astrophysics, University of Science and Technology of China, 2025 (expected)
