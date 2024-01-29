@@ -26,7 +26,7 @@ For detailed studies please find the publications from my private [ADS library](
 
 Publications
 ======
-**First author publish**
+**First author publishes**
 * X-ray flares raising upon magnetar plateau as an implication of a surrounding disk of newborn magnetized neutron star
  * Tian-Ci Zheng, Long Li, Le Zou, Xiang-Gao Wang, 2021, RAA, 21, 300  
 * The Activity of Black Hole Imprints on the Internal Plateau and the Subsequent Sharp Decay
@@ -84,7 +84,9 @@ Activities
 
 1. Cycling to Tebit: 2018.7 - 2018.8
 
-1. Cycling around Hainan Island: 2021.11
+2. A sightseen trip in  Vietnam: 2019.4
+
+3. Cycling around Hainan Island: 2021.11
    
-1. Cycling around Qinhai Lake: 2022.8
+4. Cycling around Qinhai Lake: 2022.8
 
