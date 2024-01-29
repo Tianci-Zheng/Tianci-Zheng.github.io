@@ -18,8 +18,8 @@ Differing from the erratic prompt emission of GRBs, the canonical afterglow is a
 
 For detailed studies please find the publications from my private [ADS library](https://ui.adsabs.harvard.edu/public-libraries/lgsSLQwzQ0GLO3hxMgFZjA)
 
-Further interests
-------
+**Further interests**
+
 1. FRB
 2. SN
 3. TDE/QPE
@@ -27,6 +27,13 @@ Further interests
 
 Publications
 ======
+**First author publish**
+* X-ray flares raising upon magnetar plateau as an implication of a surrounding disk of newborn magnetized neutron star
+ * Tian-Ci Zheng, Long Li, Le Zou, Xiang-Gao Wang, 2021, RAA, 21, 300  
+* The Activity of Black Hole Imprints on the Internal Plateau and the Subsequent Sharp Decay
+ * Tian-Ci Zheng, Da-Ming Wei, Yun Wang, Hao Zhou, Long Li, 2024, ApJ accepted for publication.
+
+
 **Collaborative works**
 
 * A Broken "α-intensity" Relation Caused by the Evolving Photosphere Emission and the Nature of the Extraordinarily Bright GRB 230307A
