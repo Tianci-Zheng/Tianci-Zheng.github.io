@@ -24,9 +24,11 @@ Further interests
 2. SN
 3. TDE/QPE
 4. Observations
-   
-Collaborative works
+
+Publications
 ======
+**Collaborative works**
+
 * A Broken "α-intensity" Relation Caused by the Evolving Photosphere Emission and the Nature of the Extraordinarily Bright GRB 230307A
   * Wang, Yun; Xia, Zi-Qing; Zheng, Tian-Ci et al. 2023 ApJL
 * GRB 220426A: A Thermal Radiation-Dominated Gamma-Ray Burst
@@ -44,10 +46,8 @@ Collaborative works
 * Early Optical Observations of GRB 150910A: Bright Jet Optical Afterglow and X-Ray Dipole Radiation from a Magnetar Central Engine
   * Xie, Lang; Wang, Xiang-Gao; Zheng, WeiKang et al. 2020, ApJ
   
+**GCN reports**
 
-
-GCN reports
-======
 * GRB231111A: MDM 2.4m Hiltner Telescope Observation
   * Sun, Tian-Rui; Zheng, Tian-Ci; Mao, Hui-Yang, et al. GCN35014
 * GRB 190530A: Xinglong 2.16m optical observation.
