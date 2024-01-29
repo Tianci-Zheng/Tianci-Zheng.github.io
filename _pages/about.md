@@ -74,6 +74,7 @@ Activities
 
 2. X-ray flare and plateau as a tool for probing the GRB central engine
    2024.1.13-15, The first Shen Kuo academic seminar, Wuhan, China
+   
 **Visit**
 
 1. UMICH; 2023.11.1 - 2023. 11.21
