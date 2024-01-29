@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-%#Hi! Friend, nice  to meet you here~
 
 I'm Tianci Zheng, a PhD student from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and the [Purple Mountain Observatory](http://pmo.cas.cn/). 
 
