@@ -28,9 +28,9 @@ Publications
 ======
 **First author publishes**
 * X-ray flares raising upon magnetar plateau as an implication of a surrounding disk of newborn magnetized neutron star
- * Tian-Ci Zheng, Long Li, Le Zou, Xiang-Gao Wang, 2021, RAA, 21, 300  
+  * Tian-Ci Zheng, Long Li, Le Zou, Xiang-Gao Wang, 2021, RAA, 21, 300  
 * The Activity of Black Hole Imprints on the Internal Plateau and the Subsequent Sharp Decay
- * Tian-Ci Zheng, Da-Ming Wei, Yun Wang, Hao Zhou, Long Li, 2024, ApJ accepted for publication.
+  * Tian-Ci Zheng, Da-Ming Wei, Yun Wang, Hao Zhou, Long Li, 2024, ApJ accepted for publication.
 
 
 **Collaborative works**
