@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! Friend, nice  to meet you here~
+#Hi! Friend, nice  to meet you here~
 
 I'm Tianci Zheng, a PhD student from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and the [Purple Mountain Observatory](http://pmo.cas.cn/). 
 
@@ -71,8 +71,10 @@ Activities
 
 1. X-ray flare and plateau as a tool for probing the GRB central engine
    
-   2023.12.5-8, the first conference of neutron star physics and corresponding phenomenon, Nanjing, China
+   2023.12.5-8, The first conference of neutron star physics and corresponding phenomenon, Nanjing, China
 
+2. X-ray flare and plateau as a tool for probing the GRB central engine
+   2024.1.13-15, The first Shen Kuo academic seminar, Wuhan, China
 **Visit**
 
 1. UMICH; 2023.11.1 - 2023. 11.21
