@@ -84,7 +84,7 @@ Activities
 
 1. Cycling to Tebit: 2018.7 - 2018.8
 
-2. A sightseen trip in  Vietnam: 2019.4
+2. A sightseeing trip in Vietnam: 2019.4
 
 3. Cycling around Hainan Island: 2021.11
    
