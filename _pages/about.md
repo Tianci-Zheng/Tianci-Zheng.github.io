@@ -73,6 +73,7 @@ Activities
    2023.12.5-8, The first conference of neutron star physics and corresponding phenomenon, Nanjing, China
 
 2. X-ray flare and plateau as a tool for probing the GRB central engine
+
    2024.1.13-15, The first Shen Kuo academic seminar, Wuhan, China
    
 **Visit**
