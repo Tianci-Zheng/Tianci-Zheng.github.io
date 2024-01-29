@@ -84,12 +84,12 @@ author:
   name             : "Tianci Zheng (郑天赐)"
   #avatar           : "ztcp.png"
   avatar           : "ztcjt.jpg"
-  bio              : "up! up! up!"
+  bio              : "Email: tczheng@pmo.ac.cn"
   location         : "Nanjing"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : tczheng@pmo.ac.cn
+  #email            : tczheng@pmo.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
