@@ -80,7 +80,7 @@ Activities
 
 1. UMICH; 2023.11.1 - 2023. 11.21
 
-**Traveling**
+**Travel**
 
 1. Cycling to Tebit: 2018.7 - 2018.8
 
