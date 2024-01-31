@@ -23,7 +23,7 @@ For detailed studies please find the publications from my private [ADS library](
 3. TDE/QPE
 4. Observations
 
-Representive Publications
+Representative Publications
 ======
 **First author Studies**
 * X-ray flares raising upon magnetar plateau as an implication of a surrounding disk of newborn magnetized neutron star
