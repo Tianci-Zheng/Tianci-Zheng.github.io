@@ -50,7 +50,7 @@ Representive Publications
 * GRB 190530A: GWAC-F30 optical detection.
   * Xin, L. P.; Li, G. W.; Zhang, R. S. GCN24688
 
-[Page of Publications](https://tianci-zheng.github.io/publications/)  
+[To Publications](https://tianci-zheng.github.io/publications/)  
 
 Activities
 ------
