@@ -64,6 +64,10 @@ Activities
 2. X-ray flare and plateau as a tool for probing the GRB central engine
 
    2024.1.13-15, The first Shen Kuo academic seminar, Wuhan, China
+
+3. X-ray flare and plateau as a tool for probing the GRB central engine
+
+   2024.5.21-25, The third Nanjing GRB conference, Suzhou, China
    
 **Visit**
 
@@ -79,3 +83,6 @@ Activities
    
 4. Cycling around Qinhai Lake: 2022.8
 
+
+**Record**
+The last modify: 2024.6.14
