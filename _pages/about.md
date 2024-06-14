@@ -86,6 +86,6 @@ Activities
 
 **Record**
 
-  The website started in 2023‎. ‎12‎. 12‎, ‏‎16:48:00
+  The website was built in 2023‎. ‎12‎. 12‎
 
   The last modification: 2024. 6. 14
