@@ -12,7 +12,7 @@ I'm Tianci Zheng, a PhD student from the [University of Science and Technology o
 
 Study interest
 ======
-I’m majoring in High Energy Astrophysics, with a specific interest in the central engine of gamma-ray bursts (GRBs). Differing from the erratic prompt emission of GRBs, the canonical afterglow is a promising tool for probing the central engine of GRBs. Where the X-ray flares and the X-ray plateau connect the long-lasting central engine. By combining the X-ray flare and the X-ray plateau in the afterglow phase, we have studied the magnetar’s magnetosphere size and Its remagnetized process (Zheng et al. 2021). By searching for a Quasi-Periodic Oscillation (QPO) signature in the afterglow phase, the activities of the central engines were studied. A possible asymmetrical induced magnetar precession was identified from the afterglow of the Christmas burst, GRB 101225A, which shows a tentative QPO signature in the phase of the energy dissipation dominated by gravitational wave (Zou et al. 2021). The precession of BH central therefore also expected to be found in the afterglow of GRBs. The X-ray afterglow of GRB050904, comprising nine flares, is characterized by a QPO-modulated plateau and sharp decay, which cannot be readily explained by the magnetar model but favors a Kerr BH powered precessing jet scenario (Zheng et al. 2024).
+My research focuses on using gamma-ray bursts (GRBs) as probes to study compact object physics, particularly the properties of newly formed magnetars and black holes. By combining the X-ray flare and the X-ray plateau in the afterglow phase, we have studied the magnetar’s magnetosphere size and its re-magnetized process (Zheng et al. 2021). By searching for a Quasi-Periodic Oscillation (QPO) signature in the afterglow phase, the activities of the central engines were studied. A possible asymmetrical induced magnetar precession was identified from the afterglow of the Christmas burst, GRB 101225A, which shows a tentative QPO signature in the phase of the energy dissipation dominated by gravitational wave (Zou et al. 2021). The precession of the BH central engine is also found in the afterglow of GRB050904, its X-ray afterglow comprising nine flares, is characterized by a QPO-modulated plateau and sharp decay, which cannot be readily explained by the magnetar model but favors a scenario that precessing jet powered by Kerr BH (Zheng et al. 2024). We also pay attention to the GRBs born in the ultra-compact binary, and revealed that the companion’s long-term tidal force may print a QPO pattern in the GRB afterglow, and therefore offers a method for studying the evolution of multiplicity (Zheng 2025 et al., accepted for publication in RAA). Our latest study (Zheng et al. submitted) revealed that the periodicity in GRB phenomena may be characterized by time-evolving periodicity. We report the first case GRB\,131122B, and point out that its relative period change is the fastest in the electromagnetic and comparable with a double neutron star merger. 
 
 For detailed studies please find the publications from my private [ADS library](https://ui.adsabs.harvard.edu/public-libraries/lgsSLQwzQ0GLO3hxMgFZjA)
 
@@ -86,6 +86,6 @@ Activities
 
 **Record**
 
-  The website was built in 2023‎. ‎12‎. 12‎
+  The website was built on Dec. 12, 2023‎. 
 
-  The last modification: 2024. 6. 14
+  The latest modification is on April 14, 2025.
