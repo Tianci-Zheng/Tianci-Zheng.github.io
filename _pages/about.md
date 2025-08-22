@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Welcome to Tianci Zheng's homepage, Yaho!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Tianci Zheng, a PhD student from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and the [Purple Mountain Observatory](http://pmo.cas.cn/). 
+As a postdoctoral researcher at IHEP, I focus on the physical interpretation of LHAASO's cosmic ray sources. This is a new direction for me, moving away from gamma-ray burst studies, and I am excited by the challenge.
+![Hillas diagram](https://Tianci-Zheng.github.io/images/Hillas_diagram.png)
 
-Study interest
+
+
+The studies in the stuent period
 ======
 My research focuses on using gamma-ray bursts (GRBs) as probes to study the physics of compact objects, particularly the properties of newly formed magnetars and black holes. 
 By combining the X-ray flare and the X-ray plateau in the afterglow phase, we have investigated the magnetosphere size of magnetars and potential re-magnetization process of magnetar (Zheng et al. 2021). Through the search for potential quasi-periodic oscillation (QPO) signatures in GRBs, we have examined the activities of the central engines. A possible asymmetrical induced magnetar precession was identified in the afterglow of GRB\,101225A (Zou et al. 2021). The precession of the BH central engine is also suggested by GRB\,050904. Its X-ray afterglow, consisting of nine flares, features a QPO-modulated plateau and sharp decay, which cannot be easily explained by the magnetar model but favors a scenario involving a precessing jet powered by a Kerr BH (Zheng et al. 2024). We have also investigated long GRBs originating from ultra-compact binaries, revealing that the companion's long-term tidal force may imprint a QPO pattern in the GRB afterglow, providing a method for studying the evolution of multiplicity (Zheng et al. 2025). My latest study (Zheng et al., submitted) reveals that the periodicity in GRB events may be characterized by a time-evolving period. We report the first case of GRB,131122B, highlighting that its relative period change is the fastest observed in the electromagnetic window. Our work opens a new window for studying GRB central engines and related phenomena.
