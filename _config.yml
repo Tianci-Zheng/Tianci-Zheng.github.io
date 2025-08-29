@@ -85,11 +85,11 @@ author:
   #avatar           : "ztcp.png"
   avatar           : "ztcjt.jpg"
   bio              : "Email: tczheng@ihep.ac.cn"
-  location         : "Nanjing"
+  location         : "Beijing"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  #email            : tczheng@pmo.ac.cn
+  #email            : tczheng@ihep.ac.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -220,6 +220,7 @@ defaults:
   #    author_profile: true
   #    share: true
   #    comments: true
+  
   # _publications
   - scope:
       path: ""
