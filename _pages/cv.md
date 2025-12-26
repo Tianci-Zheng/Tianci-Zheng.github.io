@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](http://tianci-zheng.github.io/files/CV_Tianci_Zheng.pdf)
+
 Education
 ======
 * B.S. in Physics, Guangxi University, 2018
