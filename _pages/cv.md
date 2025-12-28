@@ -13,9 +13,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Guangxi University, 2018
-* M.S. in physics, Guangxi University, 2021
-* Ph.D. in Astrophysics, University of Science and Technology of China, 2025 (expected)
+* B.S. in Physics, Guangxi University, 2018.
+* M.S. in physics, Guangxi University, 2021.
+* Ph.D. in Astrophysics, University of Science and Technology of China, 2025.6
+* Postdoc in LHAASO collaboration, 2025.9 - present
 
 Observations experience
 ======
